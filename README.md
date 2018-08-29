@@ -1,3 +1,5 @@
+**由于有Authorization Server - 授权服务器 和 Resource Server - 资源服务器 两个项目，我压缩了一下，解压导入即可，不要忘了在yml里面配置数据库~**
+
 # Springboot+Springsecurity+Oauth2整合（用mysql实现持久化）
 
 本文主要讲的是，实现oauth2的工作流程，需要对oauth2.0概念有一定的基础知识了解。阅读前请学习oauth2.0的理论知识。文末有此项目代码地址。
